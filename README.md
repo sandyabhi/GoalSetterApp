@@ -3,9 +3,17 @@
 ### About the Project
 * It is a simple TODO list app.
 * If the user is not registered, user need to create account 
-()
+(./images/Register.gif)
 
-* User can add goals they want, goals cards will have details(Date and time it created at and the goal) and user can delete the goal by click X button
+* If account already exist user can login directly
+(./images/login.gif)
+
+* User can add goals they want, goals cards will have details(Date and time it created at and the goal)
+(./images/Add.gif)
+
+* User can delete the goal by clicking X button
+(./images/Delete.gif)
+
 
 
 ### Features
