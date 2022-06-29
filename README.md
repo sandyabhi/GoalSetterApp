@@ -1,18 +1,24 @@
 # GoalSetterApp
 
+## Link : **[LIVE](https://merntaskm.herokuapp.com/register)**
+
 ### About the Project
 * It is a simple TODO list app.
+
 * If the user is not registered, user need to create account 
-(./images/Register.gif)
+![alttext](./images/Register.gif)
+
 
 * If account already exist user can login directly
-(./images/login.gif)
+![alt text](./images/login.gif)
+
 
 * User can add goals they want, goals cards will have details(Date and time it created at and the goal)
-(./images/Add.gif)
+![alt text](./images/Add.gif)
+
 
 * User can delete the goal by clicking X button
-(./images/Delete.gif)
+![alt text](./images/Delete.gif)
 
 
 
